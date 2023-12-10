@@ -125,7 +125,7 @@ int main() {
                 printf("6. Save the file of all appointments\n");
                 printf("7. Loading an appointment file\n");
                 printf("8. Provide the calculation times for inserting a new contact\n");
-                printf("0. Quitter\n");
+                printf("0. Quit\n");
     
                 printf("Choice : ");
                 scanf("%d", &choice);
